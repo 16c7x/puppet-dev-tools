@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'bundler',                                                   '~> 2.1', '>= 2.1.4'
 gem 'ffi',                                                       '~> 1.12', '>= 1.12.2'
 gem 'hiera-eyaml',                                               '~> 3.2'
 gem 'json',                                                      '~> 2.3'
